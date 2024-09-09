@@ -33,6 +33,3 @@ def load_and_check():
     return data
 
 processed_data = load_and_check()
-
-# Please check that the data was loaded properly!
-Something fishy is going on with the data! Integrity check failed for some rows!
